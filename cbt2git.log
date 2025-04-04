@@ -1,0 +1,9 @@
+2025-04-04 09:26:48.738762 - Received CBT.V508.FILE421.PDS from FILE421.XMI 
+2025-04-04 09:26:48.739565 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE421.PDS, moved to PDS/$$$#DATE
+2025-04-04 09:26:48.739730 - Found $CHANGES.txt (text/plain) in CBT.V508.FILE421.PDS, moved to PDS/$CHANGES
+2025-04-04 09:26:48.739874 - Found @FILE421.txt (text/plain) in CBT.V508.FILE421.PDS, moved to PDS/@FILE421
+2025-04-04 09:26:48.740001 - Found CBTJCL.jcl (text/plain) in CBT.V508.FILE421.PDS, moved to PDS/CBTJCL
+2025-04-04 09:26:48.740133 - Found UGUPCASE.bin (application/octet-stream) in CBT.V508.FILE421.PDS, moved to PDS/UGUPCASE
+2025-04-04 09:26:48.740268 - Found USERGUID.bin (application/octet-stream) in CBT.V508.FILE421.PDS, moved to PDS/USERGUID
+2025-04-04 09:26:48.740457 - Found XACORZAP.bin (application/octet-stream) in CBT.V508.FILE421.PDS, moved to PDS/XACORZAP
+2025-04-04 09:26:48.740591 - Found XAZAPSRC.txt (text/plain) in CBT.V508.FILE421.PDS, moved to PDS/XAZAPSRC
